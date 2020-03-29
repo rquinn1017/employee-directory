@@ -1,0 +1,9 @@
+.header {
+  padding: 30px 0;
+  color: Black;
+  text-shadow: 1px 1px 1px #ffffff;
+  background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/beer-bubbles-in-the-high-magnification-faferek.jpg");
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
