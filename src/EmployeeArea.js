@@ -5,7 +5,7 @@ import API from "../utils/API";
 import "../styles/EmployeeArea.css";
 import EmployeeAreaContext from "../utils/EmployeeAreaContext";
 
-const DataArea = () => {
+const EmployeeArea = () => {
   const [developerState, setDeveloperState] = useState({
     users: [],
     order: "descend",
@@ -109,4 +109,4 @@ const DataArea = () => {
   );
 };
 
-export default DataArea;
+export default EmployeeArea;
