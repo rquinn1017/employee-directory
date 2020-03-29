@@ -1,0 +1,17 @@
+body {
+    /* font-size: 16px;
+    font-family: Arial; */
+    /* background-color: #F7FAFC; */
+    background: linear-gradient(
+      to bottom,
+      rgba(62, 66, 65, 0.3) 0%,
+      rgba(17, 17, 17, 0.7) 75%,
+      #161616 100%
+    ),
+    /* url("https://artsdistrictbrewing.com/wp-content/uploads/2018/09/photo-3.jpg"); */
+    /* url("https://assets.simpleviewinc.com/simpleview/image/upload/crm/reddirt/brewery0_267523ed-5056-b3a8-494639d1ac463dfc.jpg"); */
+
+    /* background-size: cover; */
+  }
+
+  

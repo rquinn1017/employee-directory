@@ -1,19 +1,22 @@
 .datatable .col {
-    cursor: pointer;
-  }
-  
-  .datatable .col .pointer:after {
-    font-size: 80%;
-    content: "";
-    margin-right: 18px;
-  }
-  
-  .datatable .col .pointer:hover:after {
-    font-size: 80%;
-    margin-right: 0;
-  }
+  cursor: pointer;
+}
 
-  .datatable .row{
+.datatable .col .pointer:after {
+  font-size: 80%;
+  content: "";
+  margin-right: 18px;
+}
 
-    border: 1px solid #101D42;
-  }
+.datatable .col .pointer:hover:after {
+  font-size: 80%;
+  margin-right: 0;
+}
+
+.datatable .row {
+  border: 1px solid #101d42;
+}
+
+/* .table {
+  color: #ffffff !important;
+} */
